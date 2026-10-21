@@ -1,0 +1,5 @@
+Addi R1 R0 1
+Bne R1 R0 8
+Sd F20 0(R0)
+Addi R2 R0 99
+Addi R3 R0 7

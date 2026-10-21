@@ -1,0 +1,7 @@
+Ld F1 4(R0)
+Ld F2 8(R0)
+Ld F3 12(R0)
+Ld F4 24(R0)
+Ld F5 28(R0)
+Ld F6 32(R0)
+Ld F7 0(R0)

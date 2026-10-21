@@ -1,0 +1,4 @@
+Addi R1 R0 5
+Add.d F1 F2 F3
+Mult.d F4 F5 F6
+Ld F7 0(R1)

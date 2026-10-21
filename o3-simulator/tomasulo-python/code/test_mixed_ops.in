@@ -1,0 +1,5 @@
+Addi R1 R0 10
+Addi R2 R0 3
+Sub R3 R1 R2
+Mult.d F1 F20 F20
+Sub.d F2 F1 F20
